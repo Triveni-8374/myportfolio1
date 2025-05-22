@@ -81,7 +81,7 @@ margin-top: 300px;
     display: grid;
     grid-template-columns: auto auto;
     color: ghostwhite;
-    column-gap: 200px;
+    column-gap:60px;
     padding-top: 100px;
 }
 .grid-container2 > div
@@ -96,6 +96,7 @@ border-radius:40px;
 .s1
 {
 margin-top: 0px;
+font-size:15px;
 }
 .grid-item7
 {
