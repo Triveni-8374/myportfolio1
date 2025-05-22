@@ -188,9 +188,14 @@ column-gap: 40px;
 text-align: center;
 margin-top: 100px;
 border: 1px solid rgb(231,30,63);
-margin-left: 500px;
-margin-right: 500px;
+margin-left:550px;
+margin-right:550px;
 padding: 10PX;
+border-radius:10px;
+}
+.more:hover
+{
+background-color: rgb(231,30,63);
 }
 .more > a
 {
